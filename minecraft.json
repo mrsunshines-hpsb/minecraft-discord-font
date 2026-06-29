@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Minecraft",
+  "previewText": "Minecraft Font",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "NotoSans-Bold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "NotoSans-ExtraBold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "NotoSans-Medium": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf",
+    "NotoSans-Semibold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
+    "ggmono-Normal": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft.otf"
+  }
+}
