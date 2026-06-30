@@ -1,6 +1,6 @@
 {
   "spec": 1,
-  "name": "Minecraft",
+  "name": "MinecraftFont",
   "previewText": "Minecraft Font",
   "main": {
     "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/mrsunshines-hpsb/minecraft-discord-font@main/Minecraft-Bold.otf",
